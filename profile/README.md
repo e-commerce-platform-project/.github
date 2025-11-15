@@ -1,4 +1,4 @@
-# E-Commerce Microservices Platform
+# E-Commerce Platform
 
 [![Java](https://img.shields.io/badge/Java-17-blue?logo=openjdk)](https://openjdk.org/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-green?logo=springboot)](https://spring.io/projects/spring-boot)
